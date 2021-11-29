@@ -415,3 +415,4 @@ The culture can be set using one of the following approaches:
 ## Contributions Welcome!
 
 We welcome the pull request for translating the locale text in the resource files. Your contribution towards this will be greatly appreciated.
+
